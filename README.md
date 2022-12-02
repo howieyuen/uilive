@@ -27,5 +27,5 @@ The above will render
 ## Installation
 
 ```sh
-$ go get -v github.com/gosuri/uilive
+$ go get -v github.com/howieyuen/uilive
 ```
